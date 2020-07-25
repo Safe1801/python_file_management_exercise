@@ -1,3 +1,41 @@
 Just some random data
 
 Add anything else you want to...
+
+Access mode
+
+The default value of mode argument is 'r' = read
+
+Python Programs:
+
+Symbol or Character
+
+r - Open a file in read mode (default mode)
+
+
+w
+
+
+a - Open a file in append mode - Write data at the end of existing data Note: Creates a file if the named file dosen't exist.
+
+r+ - Open a file for reading and writing both.
+
+
+File operations:
+read write , append
+
+data=myFile.read(10)
+
+
+#"if" you don't  want your program to read the file word by word try the readline function which read a single line until a delimiter is approached
+
+    yield - produce or provide.
+
+
+
+    'w' stands for writing so we opened a file in write mode and assigned it to a handle
+
+
+    Again the write mode creates the required file if it doesn't exist and overwrites on the existing data if it does.
+
+    we use the write() function and where we pass datatype , string in this case ,  
