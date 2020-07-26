@@ -39,3 +39,34 @@ data=myFile.read(10)
     Again the write mode creates the required file if it doesn't exist and overwrites on the existing data if it does.
 
     we use the write() function and where we pass datatype , string in this case ,  
+
+
+    write() writelines()
+
+
+Rb Read a file in binary format.
+Wb Write a file in binary format.
+Ab Append in a file in binary format
+
+Closing Files.
+
+
+what is buffer in python?
+
+
+
+
+A brief discussion on Binary files
+
+composed - sammansatt , lugn
+
+relieved - lindrad, avlösa,
+
+
+
+if you want to get rid of closing files yourself,
+    here's a newer method  of opening  files  which involves auto-closing of files.
+
+
+
+auto closing files,  with keyword or statement.
